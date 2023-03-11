@@ -1,0 +1,16 @@
+body{
+	background-color: red;
+}
+
+table{
+	border: 2px solid;
+}
+
+th, td {
+	border: 1px dotted;
+	width: 36px;
+	height: 36px;
+	font-family: "Chiller";
+	font-size: 24px;
+	text-align: center;
+}
